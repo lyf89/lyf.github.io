@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lyf89.github.io</id>
+    <title>LYF</title>
+    <updated>2023-05-21T17:07:16.100Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lyf89.github.io"/>
+    <link rel="self" href="https://lyf89.github.io/atom.xml"/>
+    <subtitle>我是一名学生，欢迎访问我的主页</subtitle>
+    <logo>https://lyf89.github.io/images/avatar.png</logo>
+    <icon>https://lyf89.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, LYF</rights>
+    <entry>
+        <title type="html"><![CDATA[好好学习，天天向上]]></title>
+        <id>https://lyf89.github.io/post/hao-hao-xue-xi-tian-tian-xiang-shang/</id>
+        <link href="https://lyf89.github.io/post/hao-hao-xue-xi-tian-tian-xiang-shang/">
+        </link>
+        <updated>2023-05-21T17:06:39.000Z</updated>
+        <content type="html"><![CDATA[<p>😀</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[温故而知新]]></title>
+        <id>https://lyf89.github.io/post/wen-gu-er-zhi-xin/</id>
+        <link href="https://lyf89.github.io/post/wen-gu-er-zhi-xin/">
+        </link>
+        <updated>2023-05-21T16:55:23.000Z</updated>
+        <content type="html"><![CDATA[<p>温故而知新</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好]]></title>
+        <id>https://lyf89.github.io/post/ni-hao/</id>
+        <link href="https://lyf89.github.io/post/ni-hao/">
+        </link>
+        <updated>2023-05-20T14:23:10.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>我是一名学生，欢迎访问我的主页</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://lyf89.github.io/post-images/1684593742940.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
